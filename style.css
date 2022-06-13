@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #262626;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+  font-family: 'Lato', sans-serif;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 20px;
+}
+
+div {
+  color: #484848;
+  font-size: 10rem;
+  animation: lighting 1.5s linear infinite;
+}
+
+.one {
+  animation-delay: 0s;
+}
+.tow {
+  animation-delay: 0.15s;
+}
+.three {
+  animation-delay: 0.3s;
+}
+.four {
+  animation-delay: 0.45s;
+}
+.five{
+  animation-delay: 0.60s;
+}
+.six {
+  animation-delay: 0.75s;
+}
+.seven {
+  animation-delay: 0.90s;
+}
+.eight {
+  animation-delay: 1.05s;
+}
+
+@keyframes lighting {
+  0% {
+      color: #484848;
+      text-shadow: none;
+  }
+
+  85% {
+      color: #484848;  
+      text-shadow: none; 
+  }
+  100% {
+      color: #fff900; 
+      text-shadow: 
+          2px 2px 20px #ff6c00,
+          -2px -2px 20px #ff6c00;
+  }
+}
