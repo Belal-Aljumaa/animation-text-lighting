@@ -4,4 +4,6 @@
 
 ![example](img/mockup.gif)
 
+[Live Version](https://belal-aljumaa.github.io/animation-text-lighting/)
+
 - Injoy 🐱‍🚀
