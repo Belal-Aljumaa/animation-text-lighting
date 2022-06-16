@@ -4,6 +4,6 @@
 
 ![example](img/mockup.gif)
 
-[Live Version](https://belal-aljumaa.github.io/animation-text-lighting/)
+**:point_right:[Live Version](https://belal-aljumaa.github.io/animation-text-lighting/):point_left:**
 
-- Injoy 🐱‍🚀
+- Injoy 🚀
